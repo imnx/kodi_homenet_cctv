@@ -1,5 +1,4 @@
 # HomeNET Surveilance
-(kodi_homenet_cctv)
 
 This is an addon to ease the access of local network protected RTSP streams.
 It will help ease the access of local CCTV eventually.
